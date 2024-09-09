@@ -1,0 +1,5 @@
+crate syntex:npm create-vite@latest
+then cd  add project name
+npm install
+npm install react-router-dom
+npm run dev
