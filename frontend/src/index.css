@@ -13,9 +13,17 @@ a {
 
 body {
  
-  min-height: 100vh;
+  min-height: 120vh;
 }
 .app{
   margin: auto;
   width: 80%;
+}
+@keyframes fadeIn{
+  0%{
+    opacity: 0;
+  }
+  100%{
+    opacity: 1;
+  }
 }
