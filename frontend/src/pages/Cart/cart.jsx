@@ -1,6 +1,6 @@
 import React from 'react'
-import './cart.css'
-function cart() {
+import './Cart.css'
+function Cart() {
   return (
     <div>
       
@@ -8,4 +8,4 @@ function cart() {
   )
 }
 
-export default cart
+export default Cart
